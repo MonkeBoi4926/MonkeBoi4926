@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MonkeBoi4926
 - 👀 I’m interested in learning python and java
 - 🌱 I’m currently trying to learn python
-- 📫 How to reach me? https://dicord.io/MonkeGod
+- 📫 How to reach me? [HERE](https://discord.gg/JcPyFgMxSU)
 
 <!---
 MonkeBoi4926/MonkeBoi4926 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
