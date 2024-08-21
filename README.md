@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MonkeBoi4926
+- 👋 Hi, I’m @MonkeGod
 - 👀 I’m interested in learning python and java
 - 🌱 I’m currently trying to learn python
 - 📫 How to reach me? [HERE](https://discord.gg/JcPyFgMxSU)
